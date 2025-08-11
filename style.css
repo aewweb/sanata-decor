@@ -239,7 +239,6 @@ h2 {
   box-shadow: 0 4px 15px rgba(0,0,0,0.5);
 }
 
-
 .subtitle {
   font-family: 'Montserrat', sans-serif;
     color: #413B2F;
@@ -342,7 +341,7 @@ h2 {
   font-family: 'FoglihtenNo06', sans-serif;
   font-weight: 300;
   color: #413B2F;
-  padding: 20px 50px 10px; /* сверху | по бокам | снизу */
+  padding: 20px 50px 12px; /* сверху | по бокам | снизу */
   border: none;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
   background-color: white;
@@ -464,10 +463,10 @@ h2 {
   position: relative;
   z-index: 2; /* кнопка над фоном */
   color: #413B2F;
-  padding: 20px 50px 10px; /* сверху | по бокам | снизу */
+  padding: 20px 50px 12px; /* сверху | по бокам | снизу */
   border: none;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-  background-color: white !important;
+  background-color: white;
   margin-bottom: 50px;
   font-size: 3rem;
   letter-spacing: 0.1em;
@@ -660,7 +659,7 @@ h2 {
   /* Кнопка встречи и карусель */
   .appointment-button {
     font-size: 1.2rem;
-    padding: 15px 25px 8px;
+    padding: 14px 25px 10px;
     margin-top: 20px;
     margin-bottom: 20px;
   }
@@ -713,7 +712,7 @@ h2 {
   }
   .number-button {
     font-size: 1.2rem;
-    padding: 15px 25px 8px;
+    padding: 14px 25px 10px;
     margin-bottom: 20px;
   }
   .messenger-buttons {
